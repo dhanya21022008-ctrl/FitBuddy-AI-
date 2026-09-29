@@ -1,0 +1,818 @@
+[
+  {
+    "id": "demo_1_ljf",
+    "name": "Sarah Jenkins",
+    "age": 28,
+    "gender": "Female",
+    "height": 168,
+    "weight": 68,
+    "goal": "Weight Loss",
+    "activity": "Moderate",
+    "workout_preference": "Home Workout & HIIT",
+    "dietary_preference": "Mediterranean & Low Sugar",
+    "available_time": "30-45 mins",
+    "plan": {
+      "summary": "Hello Sarah Jenkins! Welcome to your customized FitBuddy-AI fitness blueprint. Tailored for your female physiology (168 cm, 68 kg) with an emphasis on caloric deficit management, metabolic conditioning, and lean tissue preservation. Considering your moderate baseline activity and preference for Home Workout & HIIT routines, this plan balances sustainable momentum with safe progressive adaptation.",
+      "workout_plan": {
+        "recommended_frequency": "4 to 5 days per week",
+        "warm_up": {
+          "title": "Dynamic Warm-Up & Joint Mobilization",
+          "description": "Prepare your cardiovascular system, synovial joints, and nervous system for exertion.",
+          "exercises": [
+            {
+              "name": "Arm Circles & Shoulder Rolls",
+              "duration": "2 minutes",
+              "notes": "Gradual increase in range of motion"
+            },
+            {
+              "name": "Cat-Cow & Torso Twists",
+              "duration": "3 minutes",
+              "notes": "Mobilize spinal column and hip flexors"
+            },
+            {
+              "name": "Light Jumping Jacks or Brisk Step-touches",
+              "duration": "3 minutes",
+              "notes": "Elevate core body temperature safely"
+            }
+          ]
+        },
+        "main_workout": {
+          "title": "Targeted Weight Loss Routine (30-45 mins sessions)",
+          "description": "Perform these key foundational movements with focus on strict form, intentional breathing, and controlled tempo.",
+          "exercises": [
+            {
+              "name": "Interval Circuit: Bodyweight Squats to Jumps",
+              "sets": "3",
+              "reps": "12-15",
+              "notes": "Keep dynamic pace, moderate rest"
+            },
+            {
+              "name": "Dumbbell Thrusters or Overhead Press",
+              "sets": "3",
+              "reps": "10-12",
+              "notes": "Compound movement to maximize burn"
+            },
+            {
+              "name": "Mountain Climbers & Step-ups",
+              "sets": "3",
+              "duration": "40 seconds",
+              "notes": "High cadence with steady breathing"
+            },
+            {
+              "name": "Renegade Rows or Bent-over Rows",
+              "sets": "3",
+              "reps": "10 per side",
+              "notes": "Anti-rotational core stability"
+            },
+            {
+              "name": "Brisk Walking or Cardio Finisher",
+              "sets": "1",
+              "duration": "15 minutes",
+              "notes": "Zone 2 steady aerobic burn"
+            }
+          ]
+        },
+        "cool_down": {
+          "title": "Post-Workout Recovery & Flexibility",
+          "description": "Lower heart rate gradually and initiate parasympathetic recovery.",
+          "exercises": [
+            {
+              "name": "Standing Quad & Hamstring Stretch",
+              "duration": "3 minutes",
+              "notes": "Breathe deeply into each hold"
+            },
+            {
+              "name": "Child Pose & Cobra Stretch",
+              "duration": "3 minutes",
+              "notes": "Decompress lower back and chest"
+            }
+          ]
+        }
+      },
+      "nutrition_guidance": {
+        "general_advice": "Prioritize nutrient-dense whole foods aligning with your Mediterranean & Low Sugar preferences. Maintain regular meal cadences and ensure adequate micronutrient variety. Avoid crash dieting or excessive stimulants.",
+        "protein_sources": [
+          "Lean chicken breast, turkey, or lean cuts of beef",
+          "Eggs and egg whites",
+          "Greek yogurt, cottage cheese, or skyr",
+          "Tofu, tempeh, edamame, and lentils",
+          "Wild-caught fish (salmon, tuna, cod) or plant-based protein isolate"
+        ],
+        "fruits_and_vegetables": [
+          "Dark leafy greens (spinach, kale, arugula)",
+          "Cruciferous vegetables (broccoli, cauliflower, Brussels sprouts)",
+          "Antioxidant berries (blueberries, raspberries, strawberries)",
+          "Complex carbs: sweet potatoes, squash, and bananas for pre/post workout energy"
+        ],
+        "hydration": "Drink a minimum of 2.5 to 3.5 liters of clean water daily, increasing by 500ml on training days to replenish electrolyte and fluid losses.",
+        "meal_suggestions": [
+          {
+            "meal": "Breakfast",
+            "suggestions": [
+              "Rolled oats cooked with chia seeds, topped with berries and protein powder or Greek yogurt",
+              "2-3 scrambled eggs with spinach and whole grain toasted sourdough"
+            ]
+          },
+          {
+            "meal": "Lunch",
+            "suggestions": [
+              "Grilled herb chicken or crispy tofu quinoa bowl with steamed broccoli, avocado, and olive oil vinaigrette",
+              "Hearty lentil and vegetable stew with a side mixed garden salad"
+            ]
+          },
+          {
+            "meal": "Dinner",
+            "suggestions": [
+              "Baked salmon or seasoned tempeh fillet with roasted sweet potatoes and asparagus spears",
+              "Lean stir-fry loaded with colorful bell peppers, snap peas, and brown rice"
+            ]
+          },
+          {
+            "meal": "Nutrient-Smart Snacks",
+            "suggestions": [
+              "Handful of raw almonds or walnuts paired with an apple",
+              "Carrot & cucumber sticks with homemade hummus",
+              "Rice cake with natural peanut or almond butter"
+            ]
+          }
+        ]
+      },
+      "daily_activities": [
+        "Target 7,000 to 10,000 daily steps across walking intervals and active transit.",
+        "Take 2-minute posture standing breaks every 50 minutes of sitting.",
+        "Engage in 5-10 minutes of gentle morning breathing and stretching.",
+        "Aim for 7 to 8.5 hours of uninterrupted sleep in a cool, dark room for muscular and hormonal recovery."
+      ],
+      "weekly_schedule": [
+        {
+          "day": "Monday",
+          "focus": "Weight Loss Routine A",
+          "activity": "Full Body Compound Strength & Core",
+          "duration": "30-45 mins"
+        },
+        {
+          "day": "Tuesday",
+          "focus": "Active Recovery",
+          "activity": "Brisk 30-min Outdoor Walk & Mobility Stretches",
+          "duration": "30 mins"
+        },
+        {
+          "day": "Wednesday",
+          "focus": "Weight Loss Routine B",
+          "activity": "Lower Body & Posterior Chain Resistance",
+          "duration": "30-45 mins"
+        },
+        {
+          "day": "Thursday",
+          "focus": "Rest & Restoration",
+          "activity": "Light Yoga or Relaxed Strolling",
+          "duration": "20 mins"
+        },
+        {
+          "day": "Friday",
+          "focus": "Weight Loss Routine C",
+          "activity": "Upper Body Pull/Push & Conditioning",
+          "duration": "30-45 mins"
+        },
+        {
+          "day": "Saturday",
+          "focus": "Recreational Cardio",
+          "activity": "Cycling, Hiking, Swimming, or Favorite Sport",
+          "duration": "40-45 mins"
+        },
+        {
+          "day": "Sunday",
+          "focus": "Deep Recovery & Meal Prep",
+          "activity": "Gentle Foam Rolling and Nutritional Planning",
+          "duration": "25 mins"
+        }
+      ],
+      "fitness_tips": [
+        "Prioritize consistency over perfection: 3 decent workouts beat 1 extreme workout followed by burnout.",
+        "Always focus on movement quality and joint alignment before increasing resistance.",
+        "Listen to your body signals: distinguish between healthy muscular effort and acute joint discomfort.",
+        "Hydrate 30 minutes before training to maintain cellular turgor and athletic output."
+      ],
+      "progress_tracking": [
+        "Record weekly body weight under consistent morning conditions (fasted, post-bathroom).",
+        "Take monthly front/side/back physique photos in consistent lighting.",
+        "Log your workout weights, repetitions, and perceived exertion (RPE) in a training journal.",
+        "Track non-scale victories: elevated daytime energy, improved sleep quality, and reduced stress levels."
+      ]
+    },
+    "is_demo": true,
+    "created_at": "2026-09-28T10:14:08.264Z"
+  },
+  {
+    "id": "demo_2_hat",
+    "name": "Marcus Vance",
+    "age": 24,
+    "gender": "Male",
+    "height": 182,
+    "weight": 74,
+    "goal": "Muscle Gain",
+    "activity": "High",
+    "workout_preference": "Gym Free Weights & Hypertrophy",
+    "dietary_preference": "High-Protein",
+    "available_time": "45-60 mins",
+    "plan": {
+      "summary": "Hello Marcus Vance! Welcome to your customized FitBuddy-AI fitness blueprint. Tailored for your male physiology (182 cm, 74 kg) with an emphasis on progressive overload, hypertrophy-specific volume, and optimal recovery. Considering your high baseline activity and preference for Gym Free Weights & Hypertrophy routines, this plan balances sustainable momentum with safe progressive adaptation.",
+      "workout_plan": {
+        "recommended_frequency": "4 days per week (Upper/Lower Split)",
+        "warm_up": {
+          "title": "Dynamic Warm-Up & Joint Mobilization",
+          "description": "Prepare your cardiovascular system, synovial joints, and nervous system for exertion.",
+          "exercises": [
+            {
+              "name": "Arm Circles & Shoulder Rolls",
+              "duration": "2 minutes",
+              "notes": "Gradual increase in range of motion"
+            },
+            {
+              "name": "Cat-Cow & Torso Twists",
+              "duration": "3 minutes",
+              "notes": "Mobilize spinal column and hip flexors"
+            },
+            {
+              "name": "Light Jumping Jacks or Brisk Step-touches",
+              "duration": "3 minutes",
+              "notes": "Elevate core body temperature safely"
+            }
+          ]
+        },
+        "main_workout": {
+          "title": "Targeted Muscle Gain Routine (45-60 mins sessions)",
+          "description": "Perform these key foundational movements with focus on strict form, intentional breathing, and controlled tempo.",
+          "exercises": [
+            {
+              "name": "Barbell or Dumbbell Squats",
+              "sets": "4",
+              "reps": "8-10",
+              "notes": "Controlled eccentric 3-second descent"
+            },
+            {
+              "name": "Dumbbell Bench Press or Floor Press",
+              "sets": "4",
+              "reps": "8-10",
+              "notes": "Focus on full chest stretch and contraction"
+            },
+            {
+              "name": "Romanian Deadlifts",
+              "sets": "3",
+              "reps": "8-10",
+              "notes": "Hinge at hips, keep weight close to shins"
+            },
+            {
+              "name": "Lat Pulldowns or Pull-ups",
+              "sets": "3",
+              "reps": "8-12",
+              "notes": "Pull elbows downward into pockets"
+            },
+            {
+              "name": "Dumbbell Overhead Shoulder Press",
+              "sets": "3",
+              "reps": "10-12",
+              "notes": "Full extension without arching back"
+            }
+          ]
+        },
+        "cool_down": {
+          "title": "Post-Workout Recovery & Flexibility",
+          "description": "Lower heart rate gradually and initiate parasympathetic recovery.",
+          "exercises": [
+            {
+              "name": "Standing Quad & Hamstring Stretch",
+              "duration": "3 minutes",
+              "notes": "Breathe deeply into each hold"
+            },
+            {
+              "name": "Child Pose & Cobra Stretch",
+              "duration": "3 minutes",
+              "notes": "Decompress lower back and chest"
+            }
+          ]
+        }
+      },
+      "nutrition_guidance": {
+        "general_advice": "Prioritize nutrient-dense whole foods aligning with your High-Protein preferences. Maintain regular meal cadences and ensure adequate micronutrient variety. Avoid crash dieting or excessive stimulants.",
+        "protein_sources": [
+          "Lean chicken breast, turkey, or lean cuts of beef",
+          "Eggs and egg whites",
+          "Greek yogurt, cottage cheese, or skyr",
+          "Tofu, tempeh, edamame, and lentils",
+          "Wild-caught fish (salmon, tuna, cod) or plant-based protein isolate"
+        ],
+        "fruits_and_vegetables": [
+          "Dark leafy greens (spinach, kale, arugula)",
+          "Cruciferous vegetables (broccoli, cauliflower, Brussels sprouts)",
+          "Antioxidant berries (blueberries, raspberries, strawberries)",
+          "Complex carbs: sweet potatoes, squash, and bananas for pre/post workout energy"
+        ],
+        "hydration": "Drink a minimum of 2.5 to 3.5 liters of clean water daily, increasing by 500ml on training days to replenish electrolyte and fluid losses.",
+        "meal_suggestions": [
+          {
+            "meal": "Breakfast",
+            "suggestions": [
+              "Rolled oats cooked with chia seeds, topped with berries and protein powder or Greek yogurt",
+              "2-3 scrambled eggs with spinach and whole grain toasted sourdough"
+            ]
+          },
+          {
+            "meal": "Lunch",
+            "suggestions": [
+              "Grilled herb chicken or crispy tofu quinoa bowl with steamed broccoli, avocado, and olive oil vinaigrette",
+              "Hearty lentil and vegetable stew with a side mixed garden salad"
+            ]
+          },
+          {
+            "meal": "Dinner",
+            "suggestions": [
+              "Baked salmon or seasoned tempeh fillet with roasted sweet potatoes and asparagus spears",
+              "Lean stir-fry loaded with colorful bell peppers, snap peas, and brown rice"
+            ]
+          },
+          {
+            "meal": "Nutrient-Smart Snacks",
+            "suggestions": [
+              "Handful of raw almonds or walnuts paired with an apple",
+              "Carrot & cucumber sticks with homemade hummus",
+              "Rice cake with natural peanut or almond butter"
+            ]
+          }
+        ]
+      },
+      "daily_activities": [
+        "Target 7,000 to 10,000 daily steps across walking intervals and active transit.",
+        "Take 2-minute posture standing breaks every 50 minutes of sitting.",
+        "Engage in 5-10 minutes of gentle morning breathing and stretching.",
+        "Aim for 7 to 8.5 hours of uninterrupted sleep in a cool, dark room for muscular and hormonal recovery."
+      ],
+      "weekly_schedule": [
+        {
+          "day": "Monday",
+          "focus": "Muscle Gain Routine A",
+          "activity": "Full Body Compound Strength & Core",
+          "duration": "45-60 mins"
+        },
+        {
+          "day": "Tuesday",
+          "focus": "Active Recovery",
+          "activity": "Brisk 30-min Outdoor Walk & Mobility Stretches",
+          "duration": "30 mins"
+        },
+        {
+          "day": "Wednesday",
+          "focus": "Muscle Gain Routine B",
+          "activity": "Lower Body & Posterior Chain Resistance",
+          "duration": "45-60 mins"
+        },
+        {
+          "day": "Thursday",
+          "focus": "Rest & Restoration",
+          "activity": "Light Yoga or Relaxed Strolling",
+          "duration": "20 mins"
+        },
+        {
+          "day": "Friday",
+          "focus": "Muscle Gain Routine C",
+          "activity": "Upper Body Pull/Push & Conditioning",
+          "duration": "45-60 mins"
+        },
+        {
+          "day": "Saturday",
+          "focus": "Recreational Cardio",
+          "activity": "Cycling, Hiking, Swimming, or Favorite Sport",
+          "duration": "40-45 mins"
+        },
+        {
+          "day": "Sunday",
+          "focus": "Deep Recovery & Meal Prep",
+          "activity": "Gentle Foam Rolling and Nutritional Planning",
+          "duration": "25 mins"
+        }
+      ],
+      "fitness_tips": [
+        "Prioritize consistency over perfection: 3 decent workouts beat 1 extreme workout followed by burnout.",
+        "Always focus on movement quality and joint alignment before increasing resistance.",
+        "Listen to your body signals: distinguish between healthy muscular effort and acute joint discomfort.",
+        "Hydrate 30 minutes before training to maintain cellular turgor and athletic output."
+      ],
+      "progress_tracking": [
+        "Record weekly body weight under consistent morning conditions (fasted, post-bathroom).",
+        "Take monthly front/side/back physique photos in consistent lighting.",
+        "Log your workout weights, repetitions, and perceived exertion (RPE) in a training journal.",
+        "Track non-scale victories: elevated daytime energy, improved sleep quality, and reduced stress levels."
+      ]
+    },
+    "is_demo": true,
+    "created_at": "2026-09-27T10:14:08.264Z"
+  },
+  {
+    "id": "demo_3_7i4",
+    "name": "Priya Sharma",
+    "age": 32,
+    "gender": "Female",
+    "height": 162,
+    "weight": 56,
+    "goal": "General Fitness",
+    "activity": "Moderate",
+    "workout_preference": "Yoga, Calisthenics & Cardio",
+    "dietary_preference": "Vegetarian",
+    "available_time": "30 mins",
+    "plan": {
+      "summary": "Hello Priya Sharma! Welcome to your customized FitBuddy-AI fitness blueprint. Tailored for your female physiology (162 cm, 56 kg) with an emphasis on balance and sustained vitality. Considering your moderate baseline activity and preference for Yoga, Calisthenics & Cardio routines, this plan balances sustainable momentum with safe progressive adaptation.",
+      "workout_plan": {
+        "recommended_frequency": "3 to 4 days per week",
+        "warm_up": {
+          "title": "Dynamic Warm-Up & Joint Mobilization",
+          "description": "Prepare your cardiovascular system, synovial joints, and nervous system for exertion.",
+          "exercises": [
+            {
+              "name": "Arm Circles & Shoulder Rolls",
+              "duration": "2 minutes",
+              "notes": "Gradual increase in range of motion"
+            },
+            {
+              "name": "Cat-Cow & Torso Twists",
+              "duration": "3 minutes",
+              "notes": "Mobilize spinal column and hip flexors"
+            },
+            {
+              "name": "Light Jumping Jacks or Brisk Step-touches",
+              "duration": "3 minutes",
+              "notes": "Elevate core body temperature safely"
+            }
+          ]
+        },
+        "main_workout": {
+          "title": "Targeted General Fitness Routine (30 mins sessions)",
+          "description": "Perform these key foundational movements with focus on strict form, intentional breathing, and controlled tempo.",
+          "exercises": [
+            {
+              "name": "Bodyweight Squats or Goblet Squats",
+              "sets": "3",
+              "reps": "10-12",
+              "notes": "Drive through heels, maintain neutral spine"
+            },
+            {
+              "name": "Push-ups or Incline Push-ups",
+              "sets": "3",
+              "reps": "8-12",
+              "notes": "Engage core, keep elbows at 45 degrees"
+            },
+            {
+              "name": "Glute Bridges",
+              "sets": "3",
+              "reps": "12-15",
+              "notes": "Squeeze glutes at top for 2 seconds"
+            },
+            {
+              "name": "Dumbbell or Resistance Band Rows",
+              "sets": "3",
+              "reps": "10-12",
+              "notes": "Retract shoulder blades fully"
+            },
+            {
+              "name": "Plank Hold",
+              "sets": "3",
+              "duration": "30-45 seconds",
+              "notes": "Maintain tight abdominal brace"
+            }
+          ]
+        },
+        "cool_down": {
+          "title": "Post-Workout Recovery & Flexibility",
+          "description": "Lower heart rate gradually and initiate parasympathetic recovery.",
+          "exercises": [
+            {
+              "name": "Standing Quad & Hamstring Stretch",
+              "duration": "3 minutes",
+              "notes": "Breathe deeply into each hold"
+            },
+            {
+              "name": "Child Pose & Cobra Stretch",
+              "duration": "3 minutes",
+              "notes": "Decompress lower back and chest"
+            }
+          ]
+        }
+      },
+      "nutrition_guidance": {
+        "general_advice": "Prioritize nutrient-dense whole foods aligning with your Vegetarian preferences. Maintain regular meal cadences and ensure adequate micronutrient variety. Avoid crash dieting or excessive stimulants.",
+        "protein_sources": [
+          "Lean chicken breast, turkey, or lean cuts of beef",
+          "Eggs and egg whites",
+          "Greek yogurt, cottage cheese, or skyr",
+          "Tofu, tempeh, edamame, and lentils",
+          "Wild-caught fish (salmon, tuna, cod) or plant-based protein isolate"
+        ],
+        "fruits_and_vegetables": [
+          "Dark leafy greens (spinach, kale, arugula)",
+          "Cruciferous vegetables (broccoli, cauliflower, Brussels sprouts)",
+          "Antioxidant berries (blueberries, raspberries, strawberries)",
+          "Complex carbs: sweet potatoes, squash, and bananas for pre/post workout energy"
+        ],
+        "hydration": "Drink a minimum of 2.5 to 3.5 liters of clean water daily, increasing by 500ml on training days to replenish electrolyte and fluid losses.",
+        "meal_suggestions": [
+          {
+            "meal": "Breakfast",
+            "suggestions": [
+              "Rolled oats cooked with chia seeds, topped with berries and protein powder or Greek yogurt",
+              "2-3 scrambled eggs with spinach and whole grain toasted sourdough"
+            ]
+          },
+          {
+            "meal": "Lunch",
+            "suggestions": [
+              "Grilled herb chicken or crispy tofu quinoa bowl with steamed broccoli, avocado, and olive oil vinaigrette",
+              "Hearty lentil and vegetable stew with a side mixed garden salad"
+            ]
+          },
+          {
+            "meal": "Dinner",
+            "suggestions": [
+              "Baked salmon or seasoned tempeh fillet with roasted sweet potatoes and asparagus spears",
+              "Lean stir-fry loaded with colorful bell peppers, snap peas, and brown rice"
+            ]
+          },
+          {
+            "meal": "Nutrient-Smart Snacks",
+            "suggestions": [
+              "Handful of raw almonds or walnuts paired with an apple",
+              "Carrot & cucumber sticks with homemade hummus",
+              "Rice cake with natural peanut or almond butter"
+            ]
+          }
+        ]
+      },
+      "daily_activities": [
+        "Target 7,000 to 10,000 daily steps across walking intervals and active transit.",
+        "Take 2-minute posture standing breaks every 50 minutes of sitting.",
+        "Engage in 5-10 minutes of gentle morning breathing and stretching.",
+        "Aim for 7 to 8.5 hours of uninterrupted sleep in a cool, dark room for muscular and hormonal recovery."
+      ],
+      "weekly_schedule": [
+        {
+          "day": "Monday",
+          "focus": "General Fitness Routine A",
+          "activity": "Full Body Compound Strength & Core",
+          "duration": "30 mins"
+        },
+        {
+          "day": "Tuesday",
+          "focus": "Active Recovery",
+          "activity": "Brisk 30-min Outdoor Walk & Mobility Stretches",
+          "duration": "30 mins"
+        },
+        {
+          "day": "Wednesday",
+          "focus": "General Fitness Routine B",
+          "activity": "Lower Body & Posterior Chain Resistance",
+          "duration": "30 mins"
+        },
+        {
+          "day": "Thursday",
+          "focus": "Rest & Restoration",
+          "activity": "Light Yoga or Relaxed Strolling",
+          "duration": "20 mins"
+        },
+        {
+          "day": "Friday",
+          "focus": "General Fitness Routine C",
+          "activity": "Upper Body Pull/Push & Conditioning",
+          "duration": "30 mins"
+        },
+        {
+          "day": "Saturday",
+          "focus": "Recreational Cardio",
+          "activity": "Cycling, Hiking, Swimming, or Favorite Sport",
+          "duration": "40-45 mins"
+        },
+        {
+          "day": "Sunday",
+          "focus": "Deep Recovery & Meal Prep",
+          "activity": "Gentle Foam Rolling and Nutritional Planning",
+          "duration": "25 mins"
+        }
+      ],
+      "fitness_tips": [
+        "Prioritize consistency over perfection: 3 decent workouts beat 1 extreme workout followed by burnout.",
+        "Always focus on movement quality and joint alignment before increasing resistance.",
+        "Listen to your body signals: distinguish between healthy muscular effort and acute joint discomfort.",
+        "Hydrate 30 minutes before training to maintain cellular turgor and athletic output."
+      ],
+      "progress_tracking": [
+        "Record weekly body weight under consistent morning conditions (fasted, post-bathroom).",
+        "Take monthly front/side/back physique photos in consistent lighting.",
+        "Log your workout weights, repetitions, and perceived exertion (RPE) in a training journal.",
+        "Track non-scale victories: elevated daytime energy, improved sleep quality, and reduced stress levels."
+      ]
+    },
+    "is_demo": true,
+    "created_at": "2026-09-26T10:14:08.264Z"
+  },
+  {
+    "id": "demo_4_2fu",
+    "name": "David O’Connor",
+    "age": 21,
+    "gender": "Male",
+    "height": 178,
+    "weight": 62,
+    "goal": "Weight Gain",
+    "activity": "Low",
+    "workout_preference": "Beginner Strength Training",
+    "dietary_preference": "Balanced Calorie Surplus",
+    "available_time": "30-45 mins",
+    "plan": {
+      "summary": "Hello David O’Connor! Welcome to your customized FitBuddy-AI fitness blueprint. Tailored for your male physiology (178 cm, 62 kg) with an emphasis on nutrient-dense caloric surplus, compound resistance training, and metabolic recovery. Considering your low baseline activity and preference for Beginner Strength Training routines, this plan balances sustainable momentum with safe progressive adaptation.",
+      "workout_plan": {
+        "recommended_frequency": "3 to 4 days per week",
+        "warm_up": {
+          "title": "Dynamic Warm-Up & Joint Mobilization",
+          "description": "Prepare your cardiovascular system, synovial joints, and nervous system for exertion.",
+          "exercises": [
+            {
+              "name": "Arm Circles & Shoulder Rolls",
+              "duration": "2 minutes",
+              "notes": "Gradual increase in range of motion"
+            },
+            {
+              "name": "Cat-Cow & Torso Twists",
+              "duration": "3 minutes",
+              "notes": "Mobilize spinal column and hip flexors"
+            },
+            {
+              "name": "Light Jumping Jacks or Brisk Step-touches",
+              "duration": "3 minutes",
+              "notes": "Elevate core body temperature safely"
+            }
+          ]
+        },
+        "main_workout": {
+          "title": "Targeted Weight Gain Routine (30-45 mins sessions)",
+          "description": "Perform these key foundational movements with focus on strict form, intentional breathing, and controlled tempo.",
+          "exercises": [
+            {
+              "name": "Bodyweight Squats or Goblet Squats",
+              "sets": "3",
+              "reps": "10-12",
+              "notes": "Drive through heels, maintain neutral spine"
+            },
+            {
+              "name": "Push-ups or Incline Push-ups",
+              "sets": "3",
+              "reps": "8-12",
+              "notes": "Engage core, keep elbows at 45 degrees"
+            },
+            {
+              "name": "Glute Bridges",
+              "sets": "3",
+              "reps": "12-15",
+              "notes": "Squeeze glutes at top for 2 seconds"
+            },
+            {
+              "name": "Dumbbell or Resistance Band Rows",
+              "sets": "3",
+              "reps": "10-12",
+              "notes": "Retract shoulder blades fully"
+            },
+            {
+              "name": "Plank Hold",
+              "sets": "3",
+              "duration": "30-45 seconds",
+              "notes": "Maintain tight abdominal brace"
+            }
+          ]
+        },
+        "cool_down": {
+          "title": "Post-Workout Recovery & Flexibility",
+          "description": "Lower heart rate gradually and initiate parasympathetic recovery.",
+          "exercises": [
+            {
+              "name": "Standing Quad & Hamstring Stretch",
+              "duration": "3 minutes",
+              "notes": "Breathe deeply into each hold"
+            },
+            {
+              "name": "Child Pose & Cobra Stretch",
+              "duration": "3 minutes",
+              "notes": "Decompress lower back and chest"
+            }
+          ]
+        }
+      },
+      "nutrition_guidance": {
+        "general_advice": "Prioritize nutrient-dense whole foods aligning with your Balanced Calorie Surplus preferences. Maintain regular meal cadences and ensure adequate micronutrient variety. Avoid crash dieting or excessive stimulants.",
+        "protein_sources": [
+          "Lean chicken breast, turkey, or lean cuts of beef",
+          "Eggs and egg whites",
+          "Greek yogurt, cottage cheese, or skyr",
+          "Tofu, tempeh, edamame, and lentils",
+          "Wild-caught fish (salmon, tuna, cod) or plant-based protein isolate"
+        ],
+        "fruits_and_vegetables": [
+          "Dark leafy greens (spinach, kale, arugula)",
+          "Cruciferous vegetables (broccoli, cauliflower, Brussels sprouts)",
+          "Antioxidant berries (blueberries, raspberries, strawberries)",
+          "Complex carbs: sweet potatoes, squash, and bananas for pre/post workout energy"
+        ],
+        "hydration": "Drink a minimum of 2.5 to 3.5 liters of clean water daily, increasing by 500ml on training days to replenish electrolyte and fluid losses.",
+        "meal_suggestions": [
+          {
+            "meal": "Breakfast",
+            "suggestions": [
+              "Rolled oats cooked with chia seeds, topped with berries and protein powder or Greek yogurt",
+              "2-3 scrambled eggs with spinach and whole grain toasted sourdough"
+            ]
+          },
+          {
+            "meal": "Lunch",
+            "suggestions": [
+              "Grilled herb chicken or crispy tofu quinoa bowl with steamed broccoli, avocado, and olive oil vinaigrette",
+              "Hearty lentil and vegetable stew with a side mixed garden salad"
+            ]
+          },
+          {
+            "meal": "Dinner",
+            "suggestions": [
+              "Baked salmon or seasoned tempeh fillet with roasted sweet potatoes and asparagus spears",
+              "Lean stir-fry loaded with colorful bell peppers, snap peas, and brown rice"
+            ]
+          },
+          {
+            "meal": "Nutrient-Smart Snacks",
+            "suggestions": [
+              "Handful of raw almonds or walnuts paired with an apple",
+              "Carrot & cucumber sticks with homemade hummus",
+              "Rice cake with natural peanut or almond butter"
+            ]
+          }
+        ]
+      },
+      "daily_activities": [
+        "Target 7,000 to 10,000 daily steps across walking intervals and active transit.",
+        "Take 2-minute posture standing breaks every 50 minutes of sitting.",
+        "Engage in 5-10 minutes of gentle morning breathing and stretching.",
+        "Aim for 7 to 8.5 hours of uninterrupted sleep in a cool, dark room for muscular and hormonal recovery."
+      ],
+      "weekly_schedule": [
+        {
+          "day": "Monday",
+          "focus": "Weight Gain Routine A",
+          "activity": "Full Body Compound Strength & Core",
+          "duration": "30-45 mins"
+        },
+        {
+          "day": "Tuesday",
+          "focus": "Active Recovery",
+          "activity": "Brisk 30-min Outdoor Walk & Mobility Stretches",
+          "duration": "30 mins"
+        },
+        {
+          "day": "Wednesday",
+          "focus": "Weight Gain Routine B",
+          "activity": "Lower Body & Posterior Chain Resistance",
+          "duration": "30-45 mins"
+        },
+        {
+          "day": "Thursday",
+          "focus": "Rest & Restoration",
+          "activity": "Light Yoga or Relaxed Strolling",
+          "duration": "20 mins"
+        },
+        {
+          "day": "Friday",
+          "focus": "Weight Gain Routine C",
+          "activity": "Upper Body Pull/Push & Conditioning",
+          "duration": "30-45 mins"
+        },
+        {
+          "day": "Saturday",
+          "focus": "Recreational Cardio",
+          "activity": "Cycling, Hiking, Swimming, or Favorite Sport",
+          "duration": "40-45 mins"
+        },
+        {
+          "day": "Sunday",
+          "focus": "Deep Recovery & Meal Prep",
+          "activity": "Gentle Foam Rolling and Nutritional Planning",
+          "duration": "25 mins"
+        }
+      ],
+      "fitness_tips": [
+        "Prioritize consistency over perfection: 3 decent workouts beat 1 extreme workout followed by burnout.",
+        "Always focus on movement quality and joint alignment before increasing resistance.",
+        "Listen to your body signals: distinguish between healthy muscular effort and acute joint discomfort.",
+        "Hydrate 30 minutes before training to maintain cellular turgor and athletic output."
+      ],
+      "progress_tracking": [
+        "Record weekly body weight under consistent morning conditions (fasted, post-bathroom).",
+        "Take monthly front/side/back physique photos in consistent lighting.",
+        "Log your workout weights, repetitions, and perceived exertion (RPE) in a training journal.",
+        "Track non-scale victories: elevated daytime energy, improved sleep quality, and reduced stress levels."
+      ]
+    },
+    "is_demo": true,
+    "created_at": "2026-09-25T10:14:08.264Z"
+  }
+]
